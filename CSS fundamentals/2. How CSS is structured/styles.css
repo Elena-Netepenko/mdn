@@ -1,0 +1,53 @@
+/* Create your test CSS here */
+
+/* h1 {
+    color: violet;
+}
+
+a:link {
+    color: green;
+}
+a:visited {
+    color: greenyellow;
+}
+
+.manythings {
+    font-size: larger;
+}
+
+#properties {
+    color: burlywood;
+    background-color: darkred;
+    padding: 5px;
+}
+
+p {
+    color: brown;
+} */
+
+h1 + p {
+    font-size: 1.2rem;
+    width: 75%;
+    background-color: rgba(255, 255, 128, .5);
+    border: 4mm ridge rgba(211, 220, 50, .6);
+}
+
+p.manythings {
+    font-size: x-small;
+    width: 150px;
+    background-color: aqua;
+}
+
+p {
+    font-size: 80%;
+    width: 20em;
+    background-color: brown;
+}
+
+ul {
+    background-color: rgb(255, 255, 128);
+}
+
+body {
+    background-color: pink;
+}
